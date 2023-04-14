@@ -9,3 +9,31 @@ body {
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
 }
+
+.cabecalho__menu {
+    display: flex;
+}
+
+.cabecalho__menu__link {
+    color: var(--cor-secundaria);
+    text-decoration: none;
+}
+
+.apresentacao__conteudo {
+    display: flex;
+    flex-direction: column;
+}
+
+.apresentacao__conteudo__imagem {
+    width: 15%;
+}
+
+.apresentacao__conteudo__botao {
+    background-color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
+    text-align: center;
+    text-decoration: none;
+    width: 140px;
+    height: 40px;
+    font-size: 26px;
+}
