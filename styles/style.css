@@ -1,0 +1,11 @@
+:root {
+    --cor-primaria: #2C3333;
+    --cor-secundaria: #CBE4DE;
+    --cor-terciaria: #0E8388;
+    --cor-hover: #2E4F4F;
+}
+
+body {
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
+}
