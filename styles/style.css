@@ -55,7 +55,7 @@ body {
 }
 
 .apresentacao__conteudo__imagem {
-    width: 300px;
+    width: 270px;
     height: 350px;
     background-size: cover;
     border: 4px solid var(--cor-terciaria);
